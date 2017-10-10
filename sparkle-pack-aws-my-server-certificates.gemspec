@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'sparkle-pack-aws-my-server-certificates'
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.licenses = ['MIT']
   s.summary = 'AWS My Server Certificates SparklePack'
   s.description = 'SparklePack to detect SSL certificates'
